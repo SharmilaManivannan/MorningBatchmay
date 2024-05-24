@@ -6,6 +6,9 @@ public class GitSample {
 		String s = "welcome to git";
 		System.out.println(s);
 		
+		int a = 34;
+		System.out.println(a);
+		
 	}
 
 }
