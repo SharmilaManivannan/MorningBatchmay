@@ -6,6 +6,9 @@ public class GitSample {
 		String s = "welcome to git";
 		System.out.println(s);
 		
+		float b = 55.96f;
+		System.out.println(b);
+		
 	}
 
 }
